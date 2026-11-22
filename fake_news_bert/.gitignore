@@ -1,0 +1,5 @@
+data/WELFake_Dataset.csv
+data/processed/
+models/
+__pycache__/
+.pytest_cache/

@@ -1,0 +1,24 @@
+{
+  "raw_rows": 72134,
+  "missing_title": 558,
+  "missing_text": 39,
+  "missing_label": 0,
+  "duplicate_title_text": 8456,
+  "label_counts_raw": {
+    "FAKE": 35028,
+    "REAL": 37106
+  },
+  "avg_words_raw": 540.6,
+  "median_words_raw": 398.0,
+  "clean_rows": 63668,
+  "duplicates_removed": 8457,
+  "sample_size_used": 63668,
+  "train_size": 44566,
+  "val_size": 9551,
+  "test_size": 9551,
+  "label_counts_clean": {
+    "FAKE": 34789,
+    "REAL": 28879
+  },
+  "avg_words_clean": 554.1
+}
